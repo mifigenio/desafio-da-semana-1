@@ -1,0 +1,45 @@
+body{
+    background: url(https://grupostylus.com.br/wp-content/uploads/2015/06/fundo-site.png);
+}
+.formato{
+    padding:10px;
+    font-family: Arial;
+    font-size: 15px;
+    text-indent: 45px;
+    text-align: justify;
+}
+h1 {
+    background: url(https://thumbs.dreamstime.com/z/projeto-abstrato-do-molde-do-vetor-com-fundo-triangular-geom%C3%A9trico-colorido-para-o-folheto-sites-folheto-71129898.jpg);
+    border: 4px black solid;
+    margin: 50px 100px 50px 100px;
+    color:#ffffff;
+    text-align: center;
+    font-family: Lucida Sans;
+    padding: 10px;
+    font-size: 70px;
+}
+h2{
+    background-color: #ffffff;
+    font-family: Lucida Sans;
+    border: 3px #000000 double;
+    color:#808080;
+    text-align: center;
+}
+h3{
+    font-family: Lucida Sans;
+    border-bottom-style: double;
+    color:#808080;
+    text-align: left;
+}
+p{
+    padding:10px;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: justify;
+}
+p1{
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    /**text-indent: 45px;**/ 
+}
